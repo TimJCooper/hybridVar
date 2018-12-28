@@ -1,2 +1,2 @@
 # hybridVar
-Process and filter SNP/INDEL calls (GATK format) to detect legitimate polymorphisms in mixed, heterogenous datasets
+Processes SNP/INDEL calls to detect high confidence polymorphisms in mixed, heterogenous datasets
